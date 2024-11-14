@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Blum
+// @name         Auto Blum Game
 // @namespace    http://tampermonkey.net/
 // @version      16-10-2024
 // @description  Auto Blum Game
